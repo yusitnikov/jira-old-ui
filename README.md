@@ -12,4 +12,4 @@ Userscript to expand Jira board quick filters like it was in the old UI.
 
 ## Enjoy!
 
-![Screenshot](https://i.gyazo.com/cb3da10bba79f52f77bd954d2654108e.png)
+![Screenshot](https://i.gyazo.com/717fe5626cf3fb9c8a5d7f72e8cb4f29.png)

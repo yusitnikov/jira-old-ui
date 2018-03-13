@@ -3,6 +3,12 @@ Userscript to expand Jira board quick filters like it was in the old UI.
 
 ## Release Notes
 
+### v1.2
+- Don't put filters into a separate line
+
+### v1.1
+- Don't expand assignee filter
+
 ### v1.0
 - Expand Jira board quick filters
 

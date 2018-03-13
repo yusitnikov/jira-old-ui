@@ -2,7 +2,7 @@
 // @name        Jira Old UI
 // @description Expands Jira board quick filters like it was in the old UI
 // @author      yusitnikov
-// @version     1.1
+// @version     1.2
 // @updateURL   https://github.com/yusitnikov/jira-old-ui/raw/master/jira-old-ui.user.js
 // @match       https://*.atlassian.net/*
 // @run-at      document-end
@@ -12,7 +12,6 @@
 setInterval(function() {
     var $li = $('#ghx-quick-filters').children('ul').children('li').eq(1),
         $div = $li.children('div');
-    $li.css('display', 'block');
     $li.children('button').hide();
     $div.attr('class', '');
     $div.attr('style', '');
